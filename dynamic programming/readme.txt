@@ -1,4 +1,4 @@
-PROBLEMS ON DYNAMIC PROGRAMMING:
+# PROBLEMS ON DYNAMIC PROGRAMMING:
 
 1. Fibonnaci:
   -Given a number n, return the fibonnaci series upto n.
